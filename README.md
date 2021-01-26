@@ -314,7 +314,7 @@ all_model_test_accuracy：
 ## 5. Authors
 + WANG Qing
 
-+ WEI Zhengyu
++ WEI Zhenyu
 
 + ZHU Xuxu
 
