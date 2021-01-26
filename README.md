@@ -312,8 +312,8 @@ all_model_test_accuracy：
 ![image.png](https://i.loli.net/2021/01/23/OpPI5qhQfuid3sV.png)
 
 ## 5. Authors
-WANG Qing
-WEI Zhengyu
-ZHU Xuxu
++WANG Qing
++WEI Zhengyu
++ZHU Xuxu
 
 
